@@ -1,3 +1,3 @@
 # training
 
-this repo is for learning git porpose.
+this repo is for learning git porpose!
